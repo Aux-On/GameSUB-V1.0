@@ -1,0 +1,89 @@
+Easy  1.) Ways to remove tiles after getting a sticky note ( Mid- activating an event)
+Easy+ 2.) Movement of mobs in a pattern and push back
+
+3.) (For myself) Music figure out what fits or not
+
+4.) Dialogue
+5.) Inventory (Honestly not needed with how short game is)
+6.) Sound sfx? (cave for like water dripping)
+7.) Burning Car cutscene but top priority is first 3 levels!
+8.) Weather effects for Snow (if possible)
+9.) Is the isometric/RPG plan still going?
+10.) Will Sticky Notes disappear after being interacted with?
+11.) Also double check if my tiles look okay please! And I notice the cave tile used in Level 3?
+
+-------------------------------------------------------------------------------------------------------
+
+Easy - 10-20
+Mid - 30
+long - 40
+
+
+Dialogue:
+EACH SPACE = 1 STICkY NOTE
+
+“Where...?”
+Cave:
+“Hello friend!”
+“I hope it’s you that’s reading this…”
+“I seem to be lost in some sort of cave, so if you could, meet me somewhere brighter, I’m heading off.”
+“I’ll leave 2 other notes in this cave since I still have more pieces of paper left on me.”
+“See you friend.”
+
+“You know, while I am here, I do want to talk to you about something that has been bothering me.”
+“I know I consider you to be my best friend, but I really hope you can find someone else to be friends with.”
+“Not that I don’t want to still be with you, but you are always alone, you know?”
+
+“This cave is really creepy. I hope you have managed to dodge the snake-worm…thingys…”
+“They really sting, but just jump over them, they can’t jump very high.”
+“Remember, even if you are afraid of what’s in the dark, close your eyes, breathe, then walk forward.”
+“I'll do the same in the meanwhile, I feel like a cold light is nearby, bring a coat if you got one.”
+"see you friend."
+
+
+Cold:
+“Hello friend!”
+“If you made it out of the darkness, it looks like we are in some snowy place.”
+“I don’t know what you think, but it feels relaxing.”
+“I could honestly walk around and use this as a break, but I think I’m getting some frostbite…”
+“I’ll leave more notes so you know where I have been, perhaps you can see what I'm seeing?”
+“Stay safe, don't worry about me but about yourself.”
+
+“You know, I do know that you have been feeling quite depressed these days.”
+“It's tough for me to see you stay inside all day.”
+“I think people are scary too, but you have to face them.”
+“Maybe if we work together people won’t be that bad.”
+“Just remember to talk to anyone besides me please?”
+“P.S. be careful of the ghosts, they suck!”
+
+““I hope you remembered to breathe and relax to the snowy scene.”
+“Remember that one time you found an apple still growing in the winter?”
+"Then you made a decent burnt-and-crispy apple pie?"
+“Perhaps like that apple, you can still live even through this cold weather.”
+"Then nourish yourself into something edible and good, like you always have for you."
+“I do feel something is warmer up ahead, see you soon.”
+
+
+Sun:
+“Hello friend.”
+“I don’t know why, but this place makes you oddly happy.”
+“It’s ordinary, but with no one to judge you anymore.”
+“If only you can live in a rule-less place forever.”
+
+“I’m not going to beat around the bush anymore.”
+“Do you remember all the times you froze whenever anyone talked to you?”
+“And you ignored them?”
+“How will you get away from loneliness if you never let people hear your voice?”
+“You must face these fears if you want to progress, you know?”
+
+“This place reminds you of all the time you put into playing video games.”
+"The fun, happy, sunny place of warmth"
+"The only warmth in your life"
+“But no one around you felt the same way about video games.”
+“No one bothered to notice your passion.”
+“When they did you ignored them and continued to play your games.”
+“I hope this place makes you contemplate your past.”
+“Remember? I’m just your conscience as your imaginary friend.”
+Ending:
+“...”
+*plays final scene*

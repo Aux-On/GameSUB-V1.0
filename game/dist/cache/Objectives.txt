@@ -1,0 +1,80 @@
+2.) Practice how to present according to the guidelines
+3.) Multiplayer? Second player is the arrow, and can damage mobs
+4.) Put in comments on everything!! (DESCRIBE)
+5.) Sound sfx? (cave for like water dripping for map 1, wind for map 2)
+6.) Weather effects for Snow (if possible) map 2
+7.) Fix the menu (Intro, perhaps i can draw it)
+8.) change background to pink red for map 3
+9.) List of sources
+-------------------------------------------------------------------------------------------------------
+
+====================================================================================
+Dialogue
+“Where...?”
+-----------------------------------------------------------------------
+Cave:
+“Hello friend!”
+“I hope it’s you that’s reading this…”
+“I seem to be lost in a cave, so if you could, meet me somewhere brighter.”
+“I’ll leave 2 other notes in this cave since I still have more pieces of paper left on me.”
+“See you friend!”
+
+“You know, while I am here, I do want to address something that’s been on my mind.”
+“I know that you are my best friend, but I hope you find other people to talk to.”
+“Not that I don’t want to still hangout with you, but you are always alone, you know?”
+
+
+“This cave is really creepy. I barely managed to dodge the snake-worm... thingys...”
+“They really sting, but just jump over them, and they can't reach you.”
+“Remember, even if you are afraid of what’s in the dark…”
+“Breathe and step forward, like we have done before.”
+	“On a brighter note, I finally see light! It’s quite chilly though.”
+	“See you soon hopefully?”
+
+---------------------------------------------------------------
+Cold:
+“Hello friend!”
+“If you made it out of there, you should be in some snowy place.”
+“I may not know what you think of this place, but it is relaxing.”
+“I could honestly use this as a break, but I’m afraid of frostbite...”
+“I’ll leave more notes, so you know where I am!”
+“In the meantime, I’m going to explore, feel free to take in the scenery.”
+“P.S. be careful of the ghosts, they look nice, but they suck!”
+
+“I do know that you have been feeling quite depressed these days.”
+“It's tough to see you stay inside all day.”
+“You think people are scary, but what if we work together to face them?”
+“Not every person should be too terrible.”
+“Someone out there would care about you.”
+"Just please try, but don't push yourself."
+
+“I really hope you have been taking in the scenery.”
+“This icy weather reminds me-”
+“Remember that one time you found an apple still growing in the winter?”
+“Then you cooked an apple pie just for you?”
+“It was burnt and crispy, but still delicious. Memories like these do warm me.”
+“You do feel something is warmer up ahead, see you soon.”
+--------------------------------------------------------------
+
+Sun:
+“Hello friend.”
+“I don’t know why, but this place makes you oddly happy.”
+“It’s ordinary, but with no one around to judge you anymore.”
+“If only you can live in a rule-less place forever.”
+
+“Oh dear, are you having too much fun now?”
+“I’m not going to beat around the bush anymore.”
+“I’m not going to run from the truth anymore, like you.”
+“You’re pathetic for never reaching out to anyone near you.”
+“But then again, would they care?”
+“You played video games like this, but no one understood you.”
+“How will you escape loneliness if you never let people hear your voice?”
+“You must contemplate your dark thoughts.”
+
+“This place reminds you of all the time you put into playing video games.”
+“But no one around you liked the things you did.”
+“No one bothered to value you.”
+“And when they did, you ignored them and continued to play your games.”
+“I hope this place makes you contemplate your past.”
+“Remember? I’m just your conscience, an imaginary friend.”
+“Wake up, you don’t belong with your current state of mind.”
