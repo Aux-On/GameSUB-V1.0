@@ -120,10 +120,10 @@ while True:
         if click:
             click = False
             display.fill((0,0,0))
-            dialogue_box("Hello FBLA! Press [W] to continue! Text boxes may be continued by using this button.", (10,10), K_w)
-            dialogue_box("You play the role of Guy, who finds himself inside an unusual place", (10, 10), K_w)
-            dialogue_box("Follow the notes to guide Guy out of his place.", (10, 10), K_w)
-            dialogue_box("Use the Arrow Keys to Maneuver, and [E] to interact with the sticky notes", (10, 10), K_w)
+            dialogue_box("Introduction! Press [W] to continue! Text boxes may be continued by using this button.", (10,10), K_w)
+            dialogue_box("You are a dimensional traveler named Guy who must retrieve the voting thought process and plans of 3 friends", (10, 10), K_w)
+            dialogue_box("in order to gather enough votes to go against the corrupt mayor and prove why voting matters.", (10, 10), K_w)
+            dialogue_box("Use Arrows Keys to move, and [E] to notes. Good luck!", (10, 10), K_w)
 
     #Leaderboard
     button3_rect = pygame.rect.Rect(52, 85, pygame.image.load("images/leaderboard.png").get_width(),

@@ -479,7 +479,7 @@ class Level1(Level):
                                 self.dialogue_box("Well technically, I lost this diary 5 years ago... then forgot to write in it until yesterday...",[10,self.display.get_height() - (self.display.get_height()/2.5)],K_w)
                                 self.dialogue_box("You, Mr. or Mrs. diary, are probably slightly mad at me right now.",[10,self.display.get_height() - (self.display.get_height()/2.5)],K_w)
                                 self.dialogue_box("But even so, I have an important decision I need to make",[10,self.display.get_height() - (self.display.get_height()/2.5)],K_w)
-                                self.dialogue_box("There are many potholes that has been growing around the city and I wonder if I can petition if we can get these fix before any of my friends fall into these bottomless pits…",
+                                self.dialogue_box("There are many potholes that has been growing around the city and I wonder if I can petition if we can get these fix before any of my friends fall into these bottomless pits...",
                                                   [10, self.display.get_height() - (self.display.get_height() / 2.5)],
                                                   K_w)
 
