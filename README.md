@@ -3,7 +3,7 @@
 
 Steps to play "Retrieval/Contemplate":
 
-1) Open the dist/app.exe Short Cut.
+1) Open the game/dist/app.exe Short Cut.
 2) Remember to read the Intro
 3) Enjoy!!
  
