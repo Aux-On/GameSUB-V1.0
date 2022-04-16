@@ -55,6 +55,7 @@ def dialogue_box(text, locationxy, quit_key_pygame):
 #Game Loop
 while True:
 
+
     #Filling Display with image
     display.fill((menu_image.get_at((1, 1))[0], menu_image.get_at((1, 1))[1], menu_image.get_at((1, 1))[2]))
     display.blit(menu_image, [0, 0])
@@ -74,9 +75,6 @@ while True:
         if click:
             #Adjusting for lack of test
             click = False
-            #Adding New Player to Leaderboard
-            with open("cache/Leaderboard.txt","a") as f:
-                f.write('0\n')
 
             #Stopping Music
             pygame.mixer.music.stop()
@@ -84,6 +82,9 @@ while True:
 
             #Checking for Current Level
             if game_index == "Level_1":
+                # Adding New Player to Leaderboard
+                with open("cache/Leaderboard.txt", "a") as f:
+                    f.write('0\n')
                 #Level 1 MUSIC
                 pygame.mixer.music.load("sounds/music/McAfee.mp3")
                 pygame.mixer.music.play(-1)

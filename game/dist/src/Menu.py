@@ -171,11 +171,19 @@ class Menu:
             x = 40
             index = 0
             f = open("cache/Leaderboard.txt", "r")
+            lines = f.readlines()
+            n_scores = 0
+            for thing in lines:
+                n_scores += 1
+            f.seek(0)
+            s_num = 0
             for line in f:
-                c = str.strip(line)
-                self.font.render(display,"Player . . . " + c,(x,y))
-                index += 1
-                y += 20
+                s_num += 1
+                if s_num > (n_scores-4):
+                    c = str.strip(line)
+                    self.font.render(display,"Player . . . " + c,(x,y))
+                    index += 1
+                    y += 20
 
             f.close()
 
